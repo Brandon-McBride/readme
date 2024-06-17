@@ -1,11 +1,5 @@
 Hello, Thanks for checking out my Github its a work in progress. A few projects I've been working i'll include links below.
 
-My Website
+My Websites
 https://brandon-mcbride.com/
-
-Interlakes Garage Sale Website
-https://interlakesgaragesale.com/
-
-
-Interlakes Garage Sale Mobile App
-https://play.google.com/store/apps/details?id=com.interlakesgaragesale.interlakesgaragesale&hl=en_US
+https://www.destinytechsolutions.com
